@@ -1,6 +1,3 @@
-# React-Tutorials
-React.js & Next.js 超入門 第2版
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
